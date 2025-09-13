@@ -1,0 +1,1 @@
+# Lightweight-1D-CNN-with-CORAL-for-Cross-Load-Bearing-Fault-Diagnosis
