@@ -83,7 +83,7 @@ def parse_args():
     parser.add_argument(
         "--data",
         type=str,
-        default=r"C:\Users\sheha\OneDrive\Videos\CWRU-1-master\Data",
+        default=r"C:\Users\sheha\OneDrive\Documents\Lightweight-1D-CNN-with-CORAL-for-Cross-Load-Bearing-Fault-Diagnosis\Data",
         help="Root folder containing the .mat files (subfolders allowed).",
     )
     parser.add_argument("--source_load", type=int, default=0, help="Source domain load id (e.g., 0)")
@@ -282,4 +282,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
